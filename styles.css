@@ -1,0 +1,53 @@
+h4 {
+    color:rgb(93, 91, 219);
+    background-color: pink;
+    font-size: 15px; 
+    font-style: italic;
+}
+
+h2 {
+    color: wheat;
+    background-color: rgb(231, 137, 60);
+    font-size: 25px;
+    font-style: oblique;
+}
+
+h1 {
+    color: whitesmoke;
+    background-color: black;
+    font-size: 25px;
+}
+
+div {
+    color: black;
+    background-color: rgb(255, 235, 239);
+}
+
+.c1 {
+    color: black;
+    background-color: rgb(255, 235, 239);
+}
+
+.feedback {
+    border: 5px solid rgb(202, 164, 177)
+}
+
+div .c2 {
+    color: rebeccapurple;
+}
+
+a[href] {
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav:hover {
+    color: white;
+    background-color: palevioletred;
+}
+
+a[href]:hover {
+    color: white;
+    background-color: palevioletred;
+}
